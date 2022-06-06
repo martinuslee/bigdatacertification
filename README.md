@@ -1,2 +1,2 @@
-# bigdatacertification
+# 빅데이터분석기사 실기 공부 정리
 빅분기 실기를 따보자!
